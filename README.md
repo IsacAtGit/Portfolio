@@ -6,5 +6,6 @@
 - portfolio tutorial -Code Complete
   # TDOD
   - Change the page with react router concept
+  - Added router concept
   # * Live preview *
   link -- https://isacportfolio.netlify.app
