@@ -5,7 +5,7 @@
 - Channel i used to learn react - MANAVAN.com
 - portfolio tutorial -Code Complete
 - I changed portfolio with router concepts
-  # TDOD
+  # TODO
   - Change the page with react router concept
   - Added router concept
   # * Live preview *
